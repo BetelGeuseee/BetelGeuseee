@@ -6,7 +6,7 @@
  1) Email : shirshakupadhayay182@gmail.com
  2) Discord : BetelGeuseee#9674 <br />
  
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BetelGeuseee&theme=dark&show_icons=true)          
+      
 
 ### Fields of Interest 
 1) Software Development 💻 
