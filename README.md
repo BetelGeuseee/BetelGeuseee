@@ -5,7 +5,7 @@
  Reach me on : <br />
  1) Email : shirshakupadhayay182@gmail.com
  2) Discord : BetelGeuseee#9674 <br />
- 3) 
+ 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BetelGeuseee&show_icons=true&theme=radical)
 
         
