@@ -16,5 +16,6 @@
 4) Data Structures and Algorithms 📃
 5) Database 📙
 6) Operating System 🐧 
+7) Web Development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BetelGeuseee&langs_count=7)](https://github.com/BetelGeuseee/github-readme-stats)
