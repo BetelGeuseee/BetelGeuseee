@@ -1,6 +1,6 @@
 ### Shirshak Upadhayay 👋 
 
- Computer Engineering <br />
+ Computer Engineer <br />
  
 
   Discord : BetelGeuseee#9674 <br />
