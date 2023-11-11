@@ -1,6 +1,6 @@
 ### Shirshak Upadhayay 👋 
 
- Currrently Studying Computer Engineering <br />
+ Computer Engineering <br />
  
 
   Discord : BetelGeuseee#9674 <br />
